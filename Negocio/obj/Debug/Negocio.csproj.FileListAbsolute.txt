@@ -1,0 +1,5 @@
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\Negocio\bin\Debug\Negocio.dll
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\Negocio\obj\Debug\Negocio.dll
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\Negocio\obj\Debug\Negocio.pdb

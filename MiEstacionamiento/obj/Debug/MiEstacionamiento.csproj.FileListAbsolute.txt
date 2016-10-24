@@ -1,0 +1,92 @@
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\MiEstacionamiento.exe.config
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\MiEstacionamiento.exe
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\MiEstacionamiento.pdb
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\MahApps.Metro.dll
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\MahApps.Metro.pdb
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\MahApps.Metro.xml
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MiEstacionamiento.csprojResolveAssemblyReference.cache
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\Resources\Icons.baml
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\App.g.cs
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MiEstacionamiento_Content.g.cs
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MiEstacionamiento_MarkupCompile.cache
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MiEstacionamiento_MarkupCompile.lref
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\App.baml
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MiEstacionamiento.g.resources
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MiEstacionamiento.Properties.Resources.resources
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MiEstacionamiento.csproj.GenerateResource.Cache
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MiEstacionamiento.exe
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MiEstacionamiento.pdb
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\Menu.g.cs
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\Menu.baml
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\Resources\Icons.baml
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MainWindow.g.cs
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\Menu.g.cs
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\App.g.cs
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MiEstacionamiento_Content.g.cs
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MiEstacionamiento_MarkupCompile.cache
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MiEstacionamiento_MarkupCompile.lref
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\MiEstacionamiento.exe.config
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\MiEstacionamiento.exe
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\MiEstacionamiento.pdb
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\MahApps.Metro.dll
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\MahApps.Metro.pdb
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\MahApps.Metro.xml
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\App.baml
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MainWindow.baml
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\Menu.baml
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MiEstacionamiento.g.resources
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MiEstacionamiento.Properties.Resources.resources
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MiEstacionamiento.csproj.GenerateResource.Cache
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MiEstacionamiento.exe
+C:\Users\Fabian\Google Drive\Compartida duoc\8 Semestre\Portafolio Titulo (1)\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MiEstacionamiento.pdb
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\Login.g.cs
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\Login.baml
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\oci.dll
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\oramts.dll
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\oramts12.dll
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\oramtsus.dll
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\orannzsbb12.dll
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\oraocci12.dll
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\oraocci12d.dll
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\oraociei12.dll
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\OraOps12.dll
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\oraons.dll
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\testcon.exe
+C:\Users\Fabian\Google Drive\DUOC\8 Semestre\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\testcon.pdb
+C:\Users\Fabian\Documents\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\bin\Debug\MiEstacionamiento.exe.config
+C:\Users\Fabian\Documents\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MiEstacionamiento.exe
+C:\Users\Fabian\Documents\Portafolio Titulo\Aplicacion Escritorio\Solucion MiEstacionamiento\MiEstacionamiento\obj\Debug\MiEstacionamiento.pdb
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\bin\Debug\MiEstacionamiento.exe.config
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\obj\Debug\MiEstacionamiento.exe
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\obj\Debug\MiEstacionamiento.pdb
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\bin\Debug\MahApps.Metro.dll
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\bin\Debug\MahApps.Metro.pdb
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\bin\Debug\MahApps.Metro.xml
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\obj\Debug\MiEstacionamiento.csprojResolveAssemblyReference.cache
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\obj\Debug\Resources\Icons.baml
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\obj\Debug\Login.g.cs
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\obj\Debug\Menu.g.cs
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\obj\Debug\App.g.cs
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\obj\Debug\MiEstacionamiento_Content.g.cs
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\obj\Debug\MiEstacionamiento_MarkupCompile.cache
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\obj\Debug\MiEstacionamiento_MarkupCompile.lref
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\obj\Debug\App.baml
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\obj\Debug\Login.baml
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\obj\Debug\Menu.baml
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\obj\Debug\MiEstacionamiento.g.resources
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\obj\Debug\MiEstacionamiento.Properties.Resources.resources
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\obj\Debug\MiEstacionamiento.csproj.GenerateResource.Cache
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\bin\Debug\MiEstacionamiento.exe
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\bin\Debug\MiEstacionamiento.pdb
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\bin\Debug\Negocio.dll
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\bin\Debug\Negocio.pdb
+C:\Users\Fabian\Documents\Portafolio Titulo\Mi Estacionamiento Git\MiEstacionamiento\bin\Debug\Newtonsoft.Json.xml
